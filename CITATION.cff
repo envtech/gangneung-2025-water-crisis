@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this archive."
+title: "Code and data for the 2025 Gangneung water crisis study"
+authors:
+  - family-names: Lee
+    given-names: Kwon-Ho
+version: 1.0.0
+date-released: "TODO"
+doi: "TODO (Zenodo)"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Lee
+      given-names: Kwon-Ho
+  title: "East Asian Arctic-Sector Circulation Anomalies during the Unprecedented 2025 Gangneung Water Crisis: Multi-Resolution Diagnostics and Explainable Machine Learning"
+  journal: "Weather and Climate Extremes"
+  year: 2026
+  doi: "TODO"

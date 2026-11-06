@@ -1,0 +1,19 @@
+name: gangneung2025
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - xarray
+  - netcdf4
+  - matplotlib
+  - cartopy
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - shap
+  - statsmodels
+  - pymannkendall
+  - pyyaml
+  # TODO: pin exact versions used for the paper

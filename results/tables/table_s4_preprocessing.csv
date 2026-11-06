@@ -1,0 +1,13 @@
+Component,Setting
+AI analysis period,1993-2025
+Climatological baseline,1993-2022
+Primary target,precip_anom_ma30
+Local NCEP2 domain,"37.75N ± 2.5°, 128.9E ± 2.5°"
+East Asian Arctic sector,"65-85N, 95-175E"
+Spatial averaging,Unweighted grid-cell mean
+Daily anomaly,Harmonic regression: annual + semiannual terms
+Moving-average windows,"7, 30, 90 days; trailing"
+Minimum observations per moving window,80%
+VIF threshold,10.0
+Missing-value interpolation,Linear; maximum 5 consecutive values
+Leakage control,Exclude ASOS precip-derived predictors and local NCEP2 prate-derived predictors

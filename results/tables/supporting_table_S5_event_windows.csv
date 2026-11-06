@@ -1,0 +1,4 @@
+Event_year,Selection_basis,Window_start,Window_end,Window_days,Minimum_target_value
+2015,Minimum precip_anom_ma30 within Jul-Sep,2015-07-14,2015-08-12,30,-7.312105522846323
+2022,Minimum precip_anom_ma30 within Jul-Sep,2022-06-10,2022-07-09,30,-2.283895423895666
+2025,Minimum precip_anom_ma30 within Jul-Sep,2025-08-07,2025-09-05,30,-8.127681712872947

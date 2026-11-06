@@ -1,0 +1,15 @@
+baseline: {start: 1993, end: 2022}
+event: {year: 2025, month: 8}
+domains:
+  arctic_sector: {lat: [65, 85], lon: [95, 175]}
+  arctic_sector_alt: {lat: [65, 80], lon: [100, 170]}
+  local_ncep2: {lat_center: 37.75, lon_center: 128.90, half_width_deg: 2.5}
+ml:
+  target: precip_anom_ma30
+  windows_days: [7, 30, 90]
+  min_valid_fraction: 0.80
+  vif_threshold: 10
+  cv: {type: expanding_window_TimeSeriesSplit, n_splits: 5}
+  random_state: 42
+  # Hyperparameters: copy from Table S3 of the Supporting Material
+  models: TODO

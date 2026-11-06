@@ -1,0 +1,7 @@
+﻿Variable,Description,Unit,Gangneung_anomaly,Gangneung_rank_most_extreme_1,Gangneung_N_Augusts,Arctic_sector_anomaly,Arctic_rank_most_extreme_1,Arctic_N_Augusts,Rank_period,Climatology
+T2m,2-m air temperature,°C,1.9385781288146973,3.0,47.0,0.7458402514457703,10.0,47.0,1979-2025,1993-2022
+PR,Precipitation rate,mm day-1,-1.6597981452941895,11.0,47.0,-0.7469350695610046,2.0,47.0,1979-2025,1993-2022
+PWC,Precipitable water,mm,3.0576815605163574,36.0,47.0,-0.148328498005867,24.0,47.0,1979-2025,1993-2022
+Z500,500-hPa geopotential height,m,31.390100479125977,6.0,47.0,50.32326126098633,4.0,47.0,1979-2025,1993-2022
+V500,500-hPa meridional wind,m s-1,-1.3347268104553223,12.0,47.0,-5.384605884552002,1.0,47.0,1979-2025,1993-2022
+WSPD500,500-hPa wind-speed anomaly,m s-1,1.8213846683502197,,,2.159296989440918,,,1979-2025,1993-2022

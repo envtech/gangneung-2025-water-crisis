@@ -1,0 +1,7 @@
+Model,Hyperparameters
+Random Forest,n_estimators=300; max_depth=6; min_samples_leaf=15; max_features=0.5; random_state=42
+XGBoost,n_estimators=300; max_depth=3; learning_rate=0.02; subsample=0.7; colsample_bytree=0.6; reg_alpha=1.0; reg_lambda=2.0; min_child_weight=10; random_state=42
+LightGBM,n_estimators=300; max_depth=3; learning_rate=0.02; subsample=0.7; colsample_bytree=0.6; reg_alpha=1.0; reg_lambda=2.0; min_child_samples=20; random_state=42
+HistGradientBoosting,max_iter=300; max_depth=3; learning_rate=0.02; min_samples_leaf=15; l2_regularization=1.0; random_state=42
+Extra Trees,n_estimators=300; max_depth=6; min_samples_leaf=15; max_features=0.5; random_state=42
+Ridge,StandardScaler + Ridge(alpha=10.0)
