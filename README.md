@@ -2,7 +2,7 @@
 
 Code and data for the manuscript:
 
-> Lee, K.-H. *East Asian Arctic-Sector Circulation Anomalies during the Unprecedented 2025 Gangneung Water Crisis: Multi-Resolution Diagnostics and Explainable Machine Learning.* Weather and Climate Extremes (submitted). DOI: `TODO`
+> Lee, K.-H. et al.,
 
 **Archived release:** Zenodo DOI `TODO` (created from release `v1.0.0`)
 
